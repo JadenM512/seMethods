@@ -1,7 +1,8 @@
 ![workflow](https://github.com/JadenM512/seMethods/actions/workflows/main.yml/badge.svg)
-![LICENSE](https://img.shields.io/github/license/JadenM512/seMethods.svg?style=flat-square)](https://github.com/JadeM512/seMethods/blob/master/LICENSE)
-![Releases](https://img.shields.io/github/release/JadenM512/seMethods/all.svg?style=flat-square)](https://github.com/JadenM512/seMethods/releases)
 
+![LICENSE](https://img.shields.io/github/license/JadenM512/seMethods.svg?style=flat-square)](https://github.com/JadeM512/seMethods/blob/master/LICENSE)
+
+![Releases](https://img.shields.io/github/release/JadenM512/seMethods/all.svg?style=flat-square)](https://github.com/JadenM512/seMethods/releases)
 
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/JadeM512/seMethods/Hello world action/develop?style=flat-square)
 
