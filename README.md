@@ -3,7 +3,7 @@
 ![Releases](https://img.shields.io/github/release/JadenM512/seMethods/all.svg?style=flat-square)](https://github.com/JadenM512/seMethods/releases)
 
 
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/JadeM512/seMethods/Hello world action/<branch>?style=flat-square)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/JadeM512/seMethods/Hello world action/develop?style=flat-square)
 
 
 Some text
