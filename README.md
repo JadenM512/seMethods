@@ -5,6 +5,6 @@
 ![Releases](https://img.shields.io/github/release/JadenM512/seMethods/all.svg?style=flat-square)
 
 
-![GitHub Workflow Status (develop)](https://img.shields.io/github/workflow/status/JadenM512/seMethods/Hello world action/develop?style=flat-square)
+![GitHub Workflow Status (develop)](https://img.shields.io/github/workflow/status/JadenM512/seMethods/A workflow for my Hello World App/develop?style=flat-square)
 
 Some text
